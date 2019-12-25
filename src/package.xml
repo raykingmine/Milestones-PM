@@ -91,7 +91,6 @@
         <members>Milestone1_Summary2</members>
         <members>Milestone1_TestProjectPage</members>
         <members>Milestone1_Timeline</members>
-        <members>Milestone1_TimelineData</members>
         <name>ApexPage</name>
     </types>
     <types>
@@ -124,23 +123,14 @@
     </types>
     <types>
         <members>Milestone1_Expense__c-en_US</members>
-        <members>Milestone1_Expense__c-ja</members>
         <members>Milestone1_Log__c-en_US</members>
-        <members>Milestone1_Log__c-ja</members>
         <members>Milestone1_Milestone__c-en_US</members>
-        <members>Milestone1_Milestone__c-ja</members>
         <members>Milestone1_Nag__c-en_US</members>
-        <members>Milestone1_Nag__c-ja</members>
         <members>Milestone1_Project__c-en_US</members>
-        <members>Milestone1_Project__c-ja</members>
         <members>Milestone1_Settings__c-en_US</members>
-        <members>Milestone1_Settings__c-ja</members>
         <members>Milestone1_Task__c-en_US</members>
-        <members>Milestone1_Task__c-ja</members>
         <members>Milestone1_Time__c-en_US</members>
-        <members>Milestone1_Time__c-ja</members>
         <members>Project_Snapshot__c-en_US</members>
-        <members>Project_Snapshot__c-ja</members>
         <name>CustomObjectTranslation</name>
     </types>
     <types>
@@ -236,7 +226,6 @@
         <name>StaticResource</name>
     </types>
     <types>
-        <members>ja</members>
         <name>Translations</name>
     </types>
     <version>23.0</version>

@@ -26,5 +26,6 @@ Contributors include:
 Get to know Milestones PM. https://github.com/ForceDotComLabs/Milestones-PM/wiki/HOW-TO-Get-to-Know-Milestones-PM
 
 
-
+Changes
+----
 Removed en-US filter in reports. 20200103.
